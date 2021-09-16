@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'2266a02a-fc0e-4a50-b35f-f44430f7126e', 2014, N'Audi', N'R8', CAST(95000.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'38ff639d-36e9-4643-8478-36404360b5f4', 2013, N'Honda', N'Civic', CAST(7000.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'9d18b49a-8fbe-475b-b01b-49c7289ba0ed', 2014, N'Toyota', N'Prius', CAST(5000.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'dcab5dd2-9a85-41f9-b4ef-2cd74f6a3816', 2013, N'Ford', N'Mustang', CAST(9000.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'e8e8075d-fd1f-44c2-8536-63eee2d0e27c', 2013, N'Mitsubishi', N'Lancer', CAST(6000.00 AS Decimal(18, 2)))
+INSERT INTO [dbo].[Car] ([Id], [Year], [Make], [Model], [Price]) VALUES (N'f5389c99-5a89-4d3b-9a3f-e28975d3a65a', 2016, N'Toyota', N'Mark X', CAST(9000.00 AS Decimal(18, 2)))
